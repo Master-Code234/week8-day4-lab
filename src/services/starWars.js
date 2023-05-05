@@ -1,5 +1,4 @@
 
-
   const url = 'https://swapi.dev/api/starships/';
 
   const getStarShips = async () => {
